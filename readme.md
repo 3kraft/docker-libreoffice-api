@@ -1,3 +1,7 @@
+# About this fork
+
+This is a fork from hannesdejager/docker-libreoffice-api with some minor updates of package sources.
+
 # LibreOffice Headless with API in Docker
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/hdejager/libreoffice-api.svg?maxAge=2592000?style=plastic)](https://hub.docker.com/r/hdejager/libreoffice-api/)
